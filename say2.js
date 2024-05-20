@@ -9,5 +9,5 @@ function say(text) {
   say("hello");
   say("hi");
   say("how do you do");
-  say("Quite all right");
+  say("Quite all right");// the function name say helped to call without repeating console.log
   
