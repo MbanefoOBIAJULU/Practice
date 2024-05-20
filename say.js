@@ -1,3 +1,6 @@
 function say() {
-    console.log(boy)
-}
+    console.log("output from say()");
+};
+console.log("Dibiaezue");
+say();
+console.log("Obiajulu");
